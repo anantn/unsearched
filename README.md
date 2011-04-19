@@ -8,6 +8,7 @@ I know what you are thinking: wouldn't it be nice to also have the search term
 to re-appear on the tabs that you actually used the search box on? Unsearched
 won't disappoint.
 
-By golly, install this wonderful add-on. It won't even make your Firefox
-restart. That's a promise!
+By golly, [install this wonderful
+add-on](https://addons.mozilla.org/en-US/firefox/addon/unsearched/). It won't
+even make your Firefox restart. That's a promise!
 
